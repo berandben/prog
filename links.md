@@ -30,8 +30,7 @@ netbeans_default_options="-J-Duser.language=es -J-client -J-Xss2m -J-Xms32m -J-X
 
 -J-Duser.language=en  
   
-    
-    https://experto.dev/java-8-fechas-horas/  
+https://experto.dev/java-8-fechas-horas/  
     
 
 
