@@ -23,7 +23,10 @@ Expresiones regulares
 https://programacion.net/articulo/expresiones_regulares_en_java_127  
 
   
-  https://www.javatpoint.com/java-regex  
+  https://www.javatpoint.com/java-regex    
+    
+    https://jarroba.com/busqueda-de-patrones-expresiones-regulares/  
+    
   
 
 
