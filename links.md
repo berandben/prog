@@ -28,7 +28,10 @@ https://programacion.net/articulo/expresiones_regulares_en_java_127
       
  https://jarroba.com/busqueda-de-patrones-expresiones-regulares/      *** 
    
-https://docs.oracle.com/javase/tutorial/essential/regex/
+https://docs.oracle.com/javase/tutorial/essential/regex/  
+
+https://riptutorial.com/es/java/example/496/matrices-multidimensionales-y-dentadas  
+
     
   
 
