@@ -32,7 +32,10 @@ https://docs.oracle.com/javase/tutorial/essential/regex/
 
 https://riptutorial.com/es/java/example/496/matrices-multidimensionales-y-dentadas  
   
-https://en.wikipedia.org/wiki/Jagged_array 
+https://en.wikipedia.org/wiki/Jagged_array     
+
+https://www.freeformatter.com/java-regex-tester.html#ad-output  
+  
 
 
 
