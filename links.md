@@ -26,7 +26,11 @@ https://programacion.net/articulo/expresiones_regulares_en_java_127
   https://www.javatpoint.com/java-regex  
     
       
- https://jarroba.com/busqueda-de-patrones-expresiones-regulares/      *** 
+ https://jarroba.com/busqueda-de-patrones-expresiones-regulares/      ***   
+ 
+ https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html  
+ 
+ 
    
 https://docs.oracle.com/javase/tutorial/essential/regex/  
 
