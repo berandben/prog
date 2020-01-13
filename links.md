@@ -40,6 +40,16 @@ https://regexr.com/
 
 https://www.freeformatter.com/java-regex-tester.html  
 
+https://www.arquitecturajava.com/java-constructores-y-super/  
+
+https://www.arquitecturajava.com/java-this-vs-this/  
+
+http://puntocomnoesunlenguaje.blogspot.com/2012/07/arreglos-en-java-calcular-media.html  
+
+https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-arrays-de-java/  
+
+https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=182:ejercicios-ejemplos-resueltos-con-arrays-arreglos-unidimensionales-en-java-calcular-letra-dni-cu00904c&catid=58&Itemid=180
+
 
 
   
