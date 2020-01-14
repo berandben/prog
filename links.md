@@ -52,7 +52,11 @@ http://puntocomnoesunlenguaje.blogspot.com/2012/07/arreglos-en-java-calcular-med
 
 https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-arrays-de-java/  
 
-https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=182:ejercicios-ejemplos-resueltos-con-arrays-arreglos-unidimensionales-en-java-calcular-letra-dni-cu00904c&catid=58&Itemid=180
+https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=182:ejercicios-ejemplos-resueltos-con-arrays-arreglos-unidimensionales-en-java-calcular-letra-dni-cu00904c&catid=58&Itemid=180  
+
+https://javautodidacta.es/bucle-for-java/  
+
+
 
 
 
