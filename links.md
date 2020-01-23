@@ -58,9 +58,17 @@ https://javautodidacta.es/bucle-for-java/
 
 String format  
 
-https://dzone.com/articles/java-string-format-examples 
+https://dzone.com/articles/java-string-format-examples   
 
 
+
+Para un array simple
+
+         System.out.println(Arrays.toString(miArray));
+
+Para un array multidimensional
+
+         System.out.println(Arrays.deepToString(miArrayMutidimensional));
 
 
 
