@@ -2,7 +2,11 @@ ONLINE
 
 Caracteres Unicode  
 
-https://unicode-table.com/es/
+https://unicode-table.com/es/  
+
+        String[] tokens2= tokens[1].split("\\s(?=\\()");//Encuentra un espacio + un paréntesis  
+        
+        
 
 
 
