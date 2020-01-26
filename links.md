@@ -4,7 +4,10 @@ https://repl.it/languages/java10
 
 https://www.mycompiler.io/  
 
-http://javadesde0.com/recorriendo-enums-parte-ii/  
+http://javadesde0.com/recorriendo-enums-parte-ii/   
+
+https://jarroba.com/enum-enumerados-en-java-con-ejemplos/  
+
 
 https://goalkicker.com/  
 
